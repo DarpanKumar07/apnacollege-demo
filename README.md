@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first repository.
-author-dev darpan
+This is my first repository.
+<br>
+Author - Dev Darpan
